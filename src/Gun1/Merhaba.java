@@ -27,5 +27,11 @@ public class Merhaba {
 
 public static void main(String[] args) {
 
-}
+    System.out.println("Merhaba Git");
+
+    for (int i=0; i<2; i++){
+        System.out.println("Merhaba "+i);
+    }
+
+    }
 }
