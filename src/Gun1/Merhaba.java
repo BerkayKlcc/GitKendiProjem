@@ -33,5 +33,12 @@ public static void main(String[] args) {
         System.out.println("Merhaba "+i);
     }
 
+    int sayac=5;
+
+    do {
+        System.out.println("Sayac GitHub");
+        sayac++;
+    }while (sayac<1);
+
     }
 }
